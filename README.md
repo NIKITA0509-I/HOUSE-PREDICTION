@@ -1,1 +1,1 @@
-# Internship-Linear-regression
+# HOUSE-PREDICTION
