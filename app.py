@@ -32,5 +32,5 @@ def predict():
         
     return render_template('index.html', prediction_text='Regression Model price for given square feet : {}'.format(prediction))
 
-
-app.run(debug=True)
+if __name__=="__main__":
+  app.run(debug=True)
